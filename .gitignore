@@ -1,2 +1,6 @@
 train.csv
 test.csv
+holidays_events.csv
+stores.csv
+transactions.csv
+oil.csv
